@@ -1,6 +1,6 @@
 # 5분 실습: loss가 내려가는 것을 직접 본다
 
-《내가 다시 AI를 처음 공부한다면》(권구민, 프리렉) 2장의 실습 노트북입니다.
+《내가 다시 AI를 처음 공부한다면》 2장의 실습 노트북입니다.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gumini-Research/loss_curve_5min/blob/main/loss_curve_5min.ipynb)
 
